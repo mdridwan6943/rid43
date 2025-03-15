@@ -1,2 +1,2 @@
 # rid43
-js plugin rid
+https://mdridwan6943.github.io/rid43/
